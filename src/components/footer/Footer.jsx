@@ -22,12 +22,10 @@ const Footer = () => {
           <li className="menuItem">FAQ</li>
         </ul>
         <div className="infoText">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur.
+          Stay connected with us for the latest updates, insights, and news. Our
+          mission is to deliver valuable content and build a community that
+          inspires and empowers individuals globally. Thank you for being a part
+          of our journey.
         </div>
         <div className="socialIcons">
           <span className="icon">
@@ -40,7 +38,7 @@ const Footer = () => {
             <FaTwitter />
           </span>
           <span className="icon">
-            <FaLinkedin href="https://www.linkedin.com/in/abdul-basit-248146286/" />
+            <FaLinkedin />
           </span>
         </div>
       </ContentWrapper>
